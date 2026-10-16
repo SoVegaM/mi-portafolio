@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "titulo": "Inicio de proyecto Fullstack",
+    "fecha": "2024-05-10",
+    "contenido": "Comenzando el desarrollo del portafolio interactivo usando React y Bootstrap."
+  },
+  {
+    "id": 2,
+    "titulo": "Integración de Pruebas Unitarias",
+    "fecha": "2024-05-12",
+    "contenido": "Se implementaron pruebas automatizadas con Karma y Jasmine para asegurar la calidad."
+  }
+]
